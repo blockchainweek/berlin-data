@@ -1,73 +1,55 @@
 # the name of your event
-<<<<<<< HEAD
-name = "BREW"
-=======
-name = "BREW Web3 Berlin"
->>>>>>> main
+name = "Decentralized AI Summit Berlin"
 
 # shortest possible name (without year)
-shortname = "BREW"
+shortname = "Decentralized AI Summit"
 
 # type of the event
-#  available types (you can choose more):
 #   * meetup
 #   * conference
 #   * hackathon
 #   * expo
 #   * party
-#   * other
-types = ["conference"]
+# type of event = "conference, hackathon, party, expo"
+types = ["conference", "expo"]
 
 # status of the event
 #  available types:
 #   * idea
 #   * planning
 #   * published
-status = "published"
+status = "planning"
 
 # the name of the group organizing the event
-org = "Food for Thought"
+org = "Newfoundation"
 
 # the github handle of the directly responsible individual for this event
 # (this person will coordinate with #bbw24 organizers)
-dri = "Jantinine"
+dri = "madviiii"
 
 # A point of contact (responsible person)
-poc = "Jantine Derksen"
+poc = "Madvi"
 
 # the start date of the event
-date = "2024-05-23"
+date = "2024-05-20"
 
 # how many days the event lasts (1 - N)
 days = 1
 
 # the event times (shows up in the event card)
-times = "10:00-18:00"
+times = "09:00-20:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-<<<<<<< HEAD
-# venues = ["gabriel-loci"]
+venues = ["factory"]
 
-# the event venue name
-venueName = "Mitosis LAB"
+# # the event venue name
+# venueName = "Factory"
 
-# link to the venue on google maps
-venueUrl = "https://maps.app.goo.gl/WRZ2J8ZDJcmkqb9LA"
+# # link to the venue on google maps
+# venueUrl = "https://maps.app.goo.gl/5MivzgdYnSyBQs9h9?g_st=ic"
 
-# the event venue address
-venueAddress = "Sonnenallee 67, 12045 Berlin"
-=======
-venues = ["mitosis"]
-
-# the event venue name
-#venueName = "Mitosis LAB"
-
-# link to the venue on google maps
-#venueUrl = "https://maps.app.goo.gl/WRZ2J8ZDJcmkqb9LA"
-
-# the event venue address
-#venueAddress = "Sonnenallee 67, 12045 Berlin"
->>>>>>> main
+# # the event venue address
+# venueAddress = "Lohmühlenstraße 65, 12435 Berlin"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
@@ -81,21 +63,19 @@ chains = []
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["protocol-agnostic", "funding", "jobs", "education"]
+tags = ["decentralizedai", "DeAI", "ZkML"]
 
 # A logo attachment
-logo = "logo.png"
+logo = "logo.jpg"
 
 # a description of the event.
 description = """
-BREW is a one-day, protocol-agnostic conference during the Berlin Blockchain Week, designed for thinkers and tinkerers across the Web3 ecosystem.
-BREW offers a crucial platform for those eager to shape the future of Web 3, offering avenues for knowledge exchange, forging valuable connections and connecting talent with matching projects and jobs.
+Gathering new internet founders, researchers, builders and VCs in Decentralized AI for a main DeAI summit during Berlin Blockchain Week ahead of ETHBerlin. Application based event.
 """
 
-[cfp]
+# [cfp]
 # link to call for particioation
-# link = "https://tinyurl.com/brewberlinsponsorship"
-link = "https://tinyurl.com/brewberlinspeak"
+# link = "https://newinternet.cc"
 
 [registration]
 # type of registration
@@ -103,16 +83,16 @@ link = "https://tinyurl.com/brewberlinspeak"
 #   * tickets
 #   * invites
 #   * signup
-type = "tickets"
+type = "signup"
 
 # price of the ticket
-price = "Free"
+price = "0 EUR"
 
 # link to the registration or ticket purchase page
-link = "https://lu.ma/brew"
+link = "https://newinternet.cc/apply"
 
 # custom action button label
-#button = "Join BREW!"
+button = "Apply here"
 
 # status of registrations
 #  Possible values:
@@ -124,13 +104,19 @@ status = "available"
 [links]
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-web = "https://www.brewberlin.xyz/"
+web = "https://newcoin.org/newinternet"
 
 # twitter account
-twitter = "https://twitter.com/brewconference"
+twitter = "https://twitter.com/newforum_nco"
+
+# public matrix channel
+# matrix = ""
 
 # public telegram group
-# telegram = ""
+telegram = "https://t.me/newfound8ion"
 
 # docs
-#docs = ""
+docs = "https://developer.newcoin.org"
+
+# discord
+# discord = ""
