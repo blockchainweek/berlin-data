@@ -29,7 +29,7 @@ org = "ephema labs"
 dri = "cshg"
 
 # A point of contact (responsible person)
-poc = "Chris"
+poc = "mailto:contact@zuberlin.city"
 
 # the start date of the event
 date = "2024-06-08"
