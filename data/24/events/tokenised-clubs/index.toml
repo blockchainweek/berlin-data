@@ -1,0 +1,130 @@
+# the name of your event
+name = "Tokenised Clubs - Incentivising Mutual Growth"
+
+# shortest possible name (without year)
+shortname = "Tokenised Clubs"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["meetup"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "New Rococo Club"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "jantinine"
+
+# A point of contact (responsible person)
+poc = "Jantine Derksen"
+
+# the start date of the event
+date = "2024-05-21"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "14:30-17:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["bock ateliers"]
+
+# the event venue name
+venueName = "bock ateliers"
+
+# link to the venue on open street maps
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Urbanstra%C3%9Fe+125%2C+10967+Berlin"
+
+# the event venue address
+venueAddress = "Urbanstraße 125, 10967 Berlin"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 40
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = []
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["Tokenisation", "DAOs", "Tokenomics", "Creative Industries"]
+
+# A logo attachment
+logo = "logo.png"
+
+# a description of the event.
+description = """
+We’re putting together an open house and panel discussion at Bock Atelier on May 21st about community engagement, token distribution models and tokenised incentives.
+
+​We will dive deep into our own use case, the establishment of a tokenised creative club were investors and creatives come together. We believe that tokenised clubs have the potential to focus on mutual growth as the core economic model. The recent controversies surrounding token launches however underscore the need for thoughtful discussion on these topics.
+
+​Can tokens help clubs favour more equitable outcomes for members? What are good token distribution models and how do token incentives work? We invite you to join us in this exploration, to share your insights and help shape the future of how clubs operate in a tokenised world.
+
+​If you are interested in joining the panel as a speaker, please reach out!
+
+​
+Doors open: 14.30
+
+​Panel: 15.00 - 16.00
+
+​Open House: 16.00 - 17.00
+
+Thank you to our supporters:
+CultTech Association : https://culttech.at/
+New Renaissance Ventures : https://www.nr.ventures/
+"""
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "tickets"
+
+# price of the ticket
+price = "0 EUR"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/nrc"
+
+# custom action button label
+button = "Join us!"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+#web = "https://example.org/"
+
+# twitter account
+#twitter = "https://twitter.com/ExampleConf"
+
+# public telegram group
+#telegram = "https://t.me/example"
+
+# docs
+#docs = "https://example.org/docs"

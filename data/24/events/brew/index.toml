@@ -95,7 +95,7 @@ price = "Free"
 link = "https://lu.ma/brew"
 
 # custom action button label
-#button = "Join BREW!"
+button = "Join BREW!"
 
 # status of registrations
 #  Possible values:
