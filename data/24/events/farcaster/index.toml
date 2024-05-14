@@ -41,16 +41,16 @@ days = 1
 times = "19:00-23:00"
 
 # # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-venues = ["Holzmarkt, Holzmarktstraße 25, 10243 Berlin"]
+# venues = ["Holzmarkt, Holzmarktstraße 25, 10243 Berlin"]
 
 # # the event venue name
-# venueName = "Holzmarkt"
+venueName = "Holzmarkt"
 
 # # link to the venue on open street maps
-# venueUrl = "https://www.openstreetmap.org/node/4815202826#map=19/52.51150/13.42673"
+venueUrl = "https://www.openstreetmap.org/node/4815202826#map=19/52.51150/13.42673"
 
 # # the event venue address
-# venueAddress = "Holzmarktstraße 25, 10243 Berlin"
+venueAddress = "Holzmarktstraße 25, 10243 Berlin"
 
 # # the languages in which the event will take place (you can choose more)
 languages = ["english"]
