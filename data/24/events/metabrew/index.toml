@@ -67,7 +67,7 @@ chains = []
 tags = ["meetup", "metabrew", "nft", "community", "beer"]
 
 # A logo attachment
-logo = "metabrew.webp"
+logo = "metabrew.op.webp"
 
 # a description of the event.
 description = """

@@ -67,7 +67,7 @@ chains = ["ethereum", "base"]
 tags = ["PERMA", "NFT", "photography", "art"]
 
 # A logo attachment
-logo = "perma.webp"
+logo = "perma.op.webp"
 
 # a description of the event.
 description = """

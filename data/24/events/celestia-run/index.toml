@@ -67,7 +67,7 @@ chains = ["celestia"]
 tags = ["running", "modularity", "breakfast"]
 
 # A logo attachment
-logo = "celestia.webp"
+logo = "celestia.op.webp"
 
 # a description of the event.
 description = """

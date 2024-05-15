@@ -6,7 +6,7 @@ mapUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Holzmarktstra%C3%
 description = '''
 This one-time pumping station on the Spree has been host to wide-ranging performances, transforming the entire building and its grounds into a stage.
 '''
-photo = "photo.webp"
+photo = "photo.op.webp"
 
 [links]
 web = "https://radialsystem.de/"

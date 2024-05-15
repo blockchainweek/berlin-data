@@ -67,7 +67,7 @@ chains = []
 tags = []
 
 # A logo attachment
-logo = "fwb.webp"
+logo = "fwb.op.webp"
 
 # a description of the event.
 description = """

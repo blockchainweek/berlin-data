@@ -56,7 +56,7 @@ chains = []
 # pick 1-4
 tags = ["DeFI", "Builders", "Founders", "VC"]
 
-logo = "euler.webp" # A logo attachment
+logo = "euler.op.webp" # A logo attachment
 
 # a description of the event.
 description = """

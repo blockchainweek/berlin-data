@@ -61,7 +61,7 @@ chains = []
 tags = ["blockchain", "web3", "ecosystem", "france"]
 
 # A logo attachment
-logo = "logo.webp"
+logo = "logo.op.webp"
 
 # a description of the event.
 description = """

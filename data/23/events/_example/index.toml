@@ -67,7 +67,7 @@ chains = ["example"]
 tags = ["solarpunk"]
 
 # A logo attachment
-#logo = "logo.webp"
+#logo = "logo.op.webp"
 
 # a description of the event.
 description = """
