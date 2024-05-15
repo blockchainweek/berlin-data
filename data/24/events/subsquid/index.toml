@@ -67,7 +67,7 @@ chains = ["polkadot"]
 tags = ["subsquid", "decentralization", "L2"]
 
 # A logo attachment
-logo = "subsquid.op.webp"
+logo = "subsquid.webp"
 
 # a description of the event.
 description = """

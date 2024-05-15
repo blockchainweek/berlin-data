@@ -67,7 +67,7 @@ attendees = 120
 tags = ["Co-Working", "protocol-agnostic", "Networking", "Education"]
 
 # # A logo attachment
-logo = "blockspat.op.webp"
+logo = "blockspat.webp"
 
 # # a description of the event.
 description = """

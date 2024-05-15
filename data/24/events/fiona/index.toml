@@ -67,7 +67,7 @@ chains = ["ethereum", "polkadot", "cosmos"]
 tags = ["solarpunk", "cryptography"]
 
 # A logo attachment
-logo = "logo.op.webp"
+logo = "logo.webp"
 
 # a description of the event.
 description = """
