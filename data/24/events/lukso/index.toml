@@ -67,7 +67,7 @@ chains = []
 tags = []
 
 # A logo attachment
-logo = "lukso-party.jpeg"
+logo = "lukso-party.op.webp"
 
 # a description of the event.
 description = """

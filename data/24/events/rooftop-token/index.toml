@@ -67,7 +67,7 @@ chains = []
 tags = ["desci", "health", "token"]
 
 # A logo attachment
-logo = "rooftop.jpg"
+logo = "rooftop.op.webp"
 
 description = """
 Let's enjoy the sunset of Berlin together after the first day of DappCon!

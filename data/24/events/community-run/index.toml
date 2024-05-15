@@ -67,7 +67,7 @@ chains = []
 # pick 1-4
 tags = ["fitness", "running", "strongertogether"]
 
-logo = "w3run.jpg"
+logo = "w3run.op.webp"
 
 
 description = """

@@ -67,7 +67,7 @@ chains = ["ethereum", "bitcoin", "arbitrum", "solana", "polkadot"]
 tags = ["HappyHour", "Cross-chain"]
 
 # A logo attachment
-logo = "chainflip.jpeg"
+logo = "chainflip.op.webp"
 
 # a description of the event.
 description = """

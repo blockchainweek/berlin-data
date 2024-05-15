@@ -11,7 +11,7 @@ times = "19:00-23:00"
 venueName = "w3.hub"
 languages = ["english"]
 tags = ["kraken", "dlt finance", "w3.hub"]
-logo = "kraken.jpeg"
+logo = "kraken.op.webp"
 # a description of the event.
 description = """
 Join us at CryptoConverge with Kraken powered by DLT Finance during Berlin Blockchain Week for a dynamic event where industry leaders, innovators, and enthusiasts come together to explore the future of decentralized finance and blockchain technology. Engage in insightful discussions, network with fellow crypto enthusiasts, and discover the latest trends shaping the digital asset landscape.

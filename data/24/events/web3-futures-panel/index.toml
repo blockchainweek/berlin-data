@@ -67,7 +67,7 @@ chains = []
 tags = ["government", "startups", "society", "innovation"]
 
 # A logo attachment
-logo = "web3-futures.jpg"
+logo = "web3-futures.op.webp"
 
 # a description of the event.
 description = """

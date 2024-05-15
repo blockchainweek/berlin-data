@@ -42,7 +42,7 @@ attendees = 100
 tags = ["lunarpunk", "privacy", "censorship resistance", "cypherphunk"]
 
 # A logo attachment
-logo = "logo.jpg"
+logo = "logo.op.webp"
 
 # a description of the event.
 description = "Web3Privacy now community presents core meetup of the privacy enthusiasts @ ETHBerlin 4. Explore the latest privacy market insights, presentations from the key privacy protocols & dApps, talk through regulatory pressure & anti-censorship efforts behind privacy community players"

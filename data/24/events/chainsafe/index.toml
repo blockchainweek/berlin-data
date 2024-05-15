@@ -64,7 +64,7 @@ chains = ["ethereum", "polkadot"]
 
 tags = ["Cross-Chain", "Account Abstraction"]
 
-logo = "chainsafe.jpg"
+logo = "chainsafe.op.webp"
 
 description = """
 Join us in Berlin for an intimate gathering for web3 folks hosted by ChainSafe & Sygma

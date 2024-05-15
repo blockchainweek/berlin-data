@@ -67,7 +67,7 @@ chains = []
 tags = ["legal", "open source software"]
 
 # A logo attachment
-logo = "web3-futures-breakfast.jpg"
+logo = "web3-futures-breakfast.op.webp"
 
 # a description of the event.
 description = """

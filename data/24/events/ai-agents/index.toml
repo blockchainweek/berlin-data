@@ -58,7 +58,7 @@ chains = []
 tags = ["aiagents", "blockchain", "web3"]
 
 # A logo attachment
-logo = "ai-agents.jpeg"
+logo = "ai-agents.op.webp"
 
 # a description of the event.
 description = """

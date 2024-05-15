@@ -67,7 +67,7 @@ chains = []
 tags = ["data", "subgraphs", "hackathon"]
 
 # A logo attachment
-logo = "telekom.jpg"
+logo = "telekom.op.webp"
 
 # a description of the event.
 description = """
