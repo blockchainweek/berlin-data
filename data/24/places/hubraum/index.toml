@@ -6,7 +6,7 @@ mapUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Winterfeldstra%C3
 description = '''
 Tech Incubator of Deutsche Telekom.
 '''
-photo = "logo.op.webp"
+photo = "logo.webp"
 
 [links]
 web = "https://hubraum.com/"

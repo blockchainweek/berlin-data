@@ -6,7 +6,7 @@ mapUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Lohmuehlenstra%C3
 description = '''
 Situated in the historic Lohmühlenstraße 65 factory near Görlitzer Park. CIC’s newest Innovation Campus is in the heart of Berlin’s vibrant creative district. With 14.000 square meters across five floors of dynamic workspace, CIC Berlin is the perfect home for modern businesses—from startups to enterprise—to grow and innovate in a flexible, hybrid world.
 '''
-photo = "photo.op.webp"
+photo = "photo.webp"
 
 [links]
 web = "https://cic.com/berlin/"
