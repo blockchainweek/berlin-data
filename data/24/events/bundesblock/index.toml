@@ -12,7 +12,7 @@ types = ["meetup"]
 #   * idea
 #   * planning
 #   * published
-status = "planning"
+status = "published"
 
 # the name of the group organizing the event
 org = "Bundesblock & ADAN"
@@ -34,17 +34,17 @@ days = 1
 times = "17:00-22:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-venues = ["Future Energy Lab"]
+# venues = ["Future Energy Lab"]
 # venues = ["[Future Energy Lab](https://maps.app.goo.gl/ZB7HWxCd93Z7j52h7)"]
 
 # # the event venue name
-# venueName = "Future Energy Lab"
+venueName = "Future Energy Lab"
 
 # # link to the venue on google maps
-# venueUrl = "https://maps.app.goo.gl/ZB7HWxCd93Z7j52h7"
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Wegelystra%C3%9Fe+1+10623+Berlin%2C+Germany"
 
 # # the event venue address
-# venueAddress = "Wegelystraße 1 10623 Berlin, Germany"
+venueAddress = "Wegelystraße 1 10623 Berlin, Germany"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
@@ -54,14 +54,14 @@ attendees = 80
 
 # blockchains that the event deals with
 # if it is an interchain event, then leave blank
-# chains = [""]
+chains = []
 
 # tags for the event, will show up as labels.
 # pick 1-4
 tags = ["blockchain", "web3", "ecosystem", "france"]
 
 # A logo attachment
-logo = "logo.jpg"
+logo = "logo.jpeg"
 
 # a description of the event.
 description = """
