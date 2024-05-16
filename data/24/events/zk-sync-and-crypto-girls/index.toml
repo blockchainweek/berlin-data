@@ -2,7 +2,7 @@ name = "zkSpäti with zkSync & crypto girls club"
 
 shortname = "zkSync & crypto girls club"
 
-types = ["meetup", "conference"]
+types = ["meetup", "conference", "party"]
 
 status = "published"
 
