@@ -41,7 +41,7 @@ days = 4
 times = "10:00-15:00"
 
 # # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-venues = "blockspaeti"
+venues = ["blockspaeti"]
 
 # # the event venue name
 # venueName = "NEST"
