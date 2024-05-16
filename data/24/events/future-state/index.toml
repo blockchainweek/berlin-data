@@ -1,0 +1,136 @@
+# the name of your event
+name = "Future State"
+
+# shortest possible name (without year)
+shortname = "Future State"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["meetup"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "planning"
+
+# the name of the group organizing the event
+org = "Future State"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "promensvitla"
+
+# A point of contact (responsible person)
+poc = "Ray Svitla"
+
+# the start date of the event
+date = "2024-05-25"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "16:00-20:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["gabriel-loci"]
+
+# the event venue name
+venueName = "Berlin, TBA"
+
+# link to the venue on open-street maps
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Berlin%2C+Berlin"
+
+# the event venue address
+venueAddress = "Berlin, TBA"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 100
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = []
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["NetworkState", "realworldissues", "innovation"]
+
+# A logo attachment
+#logo = "[logo.png](https://pbs.twimg.com/profile_images/1712553142171181057/80GXppgD_400x400.jpg)"
+
+# a description of the event.
+description = """
+Future State: Navigating Real-World Challenges through Blockchain
+
+As the crypto community braces for the next bull run, we often see a surge of get-rich-quick schemes. Future State is dedicated to addressing genuine issues that the blockchain community can tackle today.
+
+Why this Matters? This is a pragmatic approach Emerging societies are often the quickest to adopt innovations, as seen with the rapid uptake of crypto in Ukraine, Turkey, and Nigeria. Blockchain technology—with programmable economies, zk proofs, DAOs, and more—has the potential to leapfrog the development of communities, nations, and entire regions, accelerating mass adoption.
+
+Why Berlin? Berlin, a city that has long been divided between past and future, is the perfect place to leap into the future. Here, we focus on solving real human problems, not just building castles in the air.
+
+Event Structure:
+
+1. Presentations from Experts: We invite thought leaders and practitioners to share their insights on how blockchain can address real-world challenges. Submit your proposal to speak at the event.
+
+2. World Cafe for Problem-Solving: Participants will gather in small groups to discuss specific real-world challenges that blockchain can address.
+
+Examples of potential topics include: The impact of Georgia's new law on foreign agents The challenges faced by the 500,000 Belarusians in Europe who are at risk of losing their passports Propose your own topic in your participation application.
+
+Join us to explore a sci-fi version of the future, through the lens of new governance models and libertarian concepts inspired by "The Network State" by Balaji Srinivasan. Let's navigate real-world challenges with practical blockchain solutions.
+"""
+
+# [cfp]
+# link to call for particioation
+# link = "https://lu.ma/FutureState_Berlin"
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# price of the ticket
+#price = "Approval Required"
+
+# link to the registration or ticket purchase page
+#link = "https://lu.ma/FutureState_Berlin"
+
+# custom action button label
+#button = "Request to Join"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://futurestate.wiki/en/events"
+
+# twitter account
+twitter = "https://twitter.com/futurestate_tv"
+
+# public matrix channel
+#matrix = "https://matrix.to/#/!example:example.org"
+
+# public telegram group
+telegram = "https://t.me/futurestate_hall"
+
+# discord
+#discord = "https://discord.com/invite/AsDf1337"
