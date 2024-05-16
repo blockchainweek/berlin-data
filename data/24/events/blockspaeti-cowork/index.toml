@@ -41,16 +41,16 @@ days = 4
 times = "10:00-15:00"
 
 # # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-# venues = 
+venues = "blockspaeti"
 
 # # the event venue name
-venueName = "NEST"
+# venueName = "NEST"
 
 # # link to the venue on open street maps
-venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=G%C3%B6rlitzer+Str.+52%2C+10997+Berlin"
+# venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=G%C3%B6rlitzer+Str.+52%2C+10997+Berlin"
 
 # # the event venue address
-venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+# venueAddress = "Görlitzer Str. 52, 10997 Berlin"
 
 # # the languages in which the event will take place (you can choose more)
 languages = ["english"]
