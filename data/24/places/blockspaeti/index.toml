@@ -1,0 +1,26 @@
+# name of the venue
+name = "Blockspäti"
+
+# type of the event
+eventTypes = ["meetup", "party", "other"]
+
+# max number of attendees
+capacity = 500
+
+# Street address
+address = "Görlitzer Str. 52, 10997 Berlin"
+
+# OSM/Google Maps URL
+mapUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+
+# Venue Description
+description = '''
+A two-floor authentic Berlin Späti in the heart of Kreuzberg.
+'''
+
+# Venue Photo or Logo
+photo = "logo.png"
+
+# Venue Link
+[links]
+web = "https://lu.ma/joinwebzero"
