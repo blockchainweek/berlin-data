@@ -1,0 +1,72 @@
+name = "WebZero BlockSpäti — Co-working Day Three"
+
+shortname = "Co-working at BlockSpäti"
+
+types = ["coworking"]
+
+status = "published"
+
+org = "WebZero"
+
+dri = "tripleight"
+
+poc = "Roman Kemper"
+
+date = "2024-05-23"
+
+days = 1
+
+times = "10:00-14:00"
+
+venues = ["blockspaeti"]
+
+venueName = "Blockspäti"
+
+venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+
+venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+
+languages = ["english"]
+
+attendees = 80
+
+chains = ["polkadot", "ethereum"]
+
+tags = ["data", "cryptography"]
+
+logo = "logo.png"
+
+description = """
+Day three at the BlockSpäti: 
+
+Come co-work, enjoy a crypto-branded mate, try out a quest and network with builders, founders and creators in the space.
+
+We'll have snacks, beverages and a Starlink router to keep your WiFi at super strength all day long.
+"""
+
+# [cfp]
+# link = "https://example.com/speaker"
+
+[registration]
+type = "signup"
+
+price = "0 EUR"
+
+link = "https://lu.ma/5nkz0thy"
+
+# button = "Sign up!"
+
+status = "available"
+
+[links]
+web = "https://lu.ma/5nkz0thy"
+
+twitter = "https://x.com/joinwebzero"
+
+# matrix = "https://matrix.to/#/!example:example.org"
+
+# telegram = "https://t.me/example"
+
+# docs = "https://example.org/docs"
+
+# discord = "https://discord.com/invite/AsDf1337"
