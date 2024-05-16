@@ -1,0 +1,74 @@
+name = "WebZero BlockSpäti — Co-working Day One"
+
+shortname = "Co-working at BlockSpäti"
+
+types = ["coworking"]
+
+status = "published"
+
+org = "WebZero"
+
+dri = "tripleight"
+
+poc = "Roman Kemper"
+
+date = "2024-05-21"
+
+days = 1
+
+times = "10:00-18:00"
+
+venues = ["blockspaeti"]
+
+venueName = "Blockspäti"
+
+venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+
+venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+
+languages = ["english"]
+
+attendees = 80
+
+chains = ["polkadot", "ethereum"]
+
+tags = ["data", "cryptography"]
+
+logo = "logo.png"
+
+description = """
+Kick-off Berlin Blockchain Week in true Berlin style by working from a traditional crypto Spätkauf.
+
+The Blockspati officially opens its doors for day one. 
+
+Come co-work, enjoy a crypto-branded mate, try out a quest and network with builders, founders and creators in the space.
+
+We'll have snacks, beverages and a Starlink router to keep your WiFi at super strength all day long.
+"""
+
+# [cfp]
+# link = "https://example.com/speaker"
+
+[registration]
+type = "signup"
+
+price = "0 EUR"
+
+link = "https://lu.ma/blockspati"
+
+# button = "Sign up!"
+
+status = "available"
+
+[links]
+web = "https://lu.ma/blockspati"
+
+twitter = "https://x.com/joinwebzero"
+
+# matrix = "https://matrix.to/#/!example:example.org"
+
+# telegram = "https://t.me/example"
+
+# docs = "https://example.org/docs"
+
+# discord = "https://discord.com/invite/AsDf1337"
