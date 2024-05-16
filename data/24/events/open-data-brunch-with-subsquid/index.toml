@@ -1,9 +1,9 @@
 name = "Open Data Brunch with Subsquid"
 
-shortname = "Open Data Brunch with Subsquid"
 
 types = ["meetup", "other"]
 
+shortname = "Open Data Brunch with Subsquid"
 status = "published"
 
 org = "WebZero"
