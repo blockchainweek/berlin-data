@@ -1,0 +1,104 @@
+name = "zkSpäti with zkSync & crypto girls club"
+
+shortname = "zkSync & crypto girls club"
+
+types = ["meetup", "conference"]
+
+status = "published"
+
+org = "WebZero"
+
+dri = "tripleight"
+
+poc = "Roman Kemper"
+
+date = "2024-05-22"
+
+days = 1
+
+times = "15:00-21:00"
+
+venues = ["blockspaeti"]
+
+venueName = "Blockspäti"
+
+venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+
+venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+
+languages = ["english"]
+
+attendees = 80
+
+chains = ["polkadot", "ethereum"]
+
+tags = ["data", "cryptography"]
+
+logo = "logo.png"
+
+description = """
+Step into The BlockSpäti and prepare to enter a new reality where your favourite crypto brand is available to drink over the counter. Join us from day to dusk for Berlin Blockchain Week at our authentic Berlin experience: a two-floor mini-mart.
+
+We'll be diving into account abstraction, quantum cryptography and cross-chain compatibility with a lineup so hard even Berghain couldn't curate.
+
+
+PANEL - 3:30PM
+
+'Cross-chain compatibility: redefining the collaboration between blockchains"
+
+- Hira Siddiqui - CEO & Co-Founder, Plurality Network
+- Lana Ivina - Blockchain Developer, Starkware
+- Albiona Hoti - DevRel, Matter Labs
+- Bianca Buzea - Head of Devrel, LUKSO
+
+PRESENTATIONS - 4:20PM
+
+- "Quantum Cryptography: Does It Have a Future?"
+Olena-Ivanna Oshchypok Applied Cryptographer Engineer at Matter Labs
+
+- “Exploring the evolution of Account Abstraction (AA) and its impact since 2023"
+Albiona Hoti - DevRel, Matter Labs
+
+- The session will highlight key implementations like EIP-4337 and zkSync, and provide hands-on example on native AA.
+
+AFTER HOURS - 6PM
+
+- Join us for afterhours for sassy-named cocktails, free flowing food and drink, killer merch in the merch mart, live music and sets from Berlin DJs till dark.
+
+- Acoustic Nigerian set by [Dammy Daas](https://www.instagram.com/dammydaas_/?hl=en)
+DJ set by [øhr](https://twitter.com/ohr_xyz)
+
+DRINK OF THE DAY
+
+- zksync club mate
+- Savour the refreshing mate plant with a touch of zero knowledge (don't worry, we know the ingredients)
+
+See you soon,
+
+zkSync & crypto girls club
+"""
+
+# [cfp]
+# link = "https://example.com/speaker"
+
+[registration]
+type = "signup"
+
+price = "0 EUR"
+
+link = "https://lu.ma/fuelatblockspati"
+
+# button = "Sign up!"
+
+status = "available"
+
+[links]
+web = "https://www.fuel.network"
+
+twitter = "https://twitter.com/fuel_network"
+
+# matrix = "https://matrix.to/#/!example:example.org"
+
+# telegram = "https://t.me/example"
+
+# docs = "https://example.org/docs"
