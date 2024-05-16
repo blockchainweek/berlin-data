@@ -2,7 +2,7 @@ name = "Open Data Brunch with Subsquid"
 
 shortname = "Open Data Brunch with Subsquid"
 
-types = ["meetup" "brunch"]
+types = ["meetup", "brunch"]
 
 status = "published"
 
