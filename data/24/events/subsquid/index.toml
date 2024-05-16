@@ -60,7 +60,7 @@ attendees = 80
 
 # blockchains that the event deals with
 # if it is an interchain event, then leave blank
-chains = ["polkadot"]
+chains = ["polkadot", "ethereum"]
 
 # tags for the event, will show up as labels.
 # pick 1-4
@@ -71,7 +71,7 @@ logo = "logo.png"
 
 # a description of the event.
 description = """
-​GM cryptopunks and decentralization enjoyooors.
+GM cryptopunks and decentralization enjoyooors.
 
 We're already a few days through blockchain week... it's probably time for a refuel!
 
@@ -82,7 +82,7 @@ Why join?
 - Plenty of liquidity, including Club Mate, the go-to drink for real Berliners, or those aspiring to be
 - Crypto dev insights straight from the source
 
-​Talk by [David Mihal](https://twitter.com/dmihal), Senior Architect @ Fuel
+Talk by [David Mihal](https://twitter.com/dmihal), Senior Architect @ Fuel
 
 Light-contracts - Understanding Fuel's Predicates
 The Fuel L2 features a new primitive, known as "predicates". Learn how predicates differ from "smart contracts", and how to use them to build account-abstraction wallets, DeFi apps, and more!
