@@ -1,0 +1,68 @@
+name = "Fuel & Frens takeover The BlockSpäti"
+
+shortname = "Fuel & Frens"
+
+types = ["party", "networking"]
+
+status = "published"
+
+org = "WebZero"
+
+dri = "tripleight"
+
+poc = "Roman Kemper"
+
+date = "2024-05-21"
+
+days = 1
+
+times = "19:00-23:59"
+
+venues = ["blockspaeti"]
+
+venueName = "Blockspäti"
+
+venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+
+venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+
+languages = ["english"]
+
+attendees = 80
+
+chains = ["polkadot", "ethereum"]
+
+tags = ["data", "cryptography"]
+
+logo = "logo.png"
+
+description = """
+Beers, snacks, goodies, club mate & builder frens
+
+We're joining forces with the WebZero team and for one evening, we're taking over the BlockSpäti - a mini-mart with a hidden event space in the heart of the Berlin Blockchain Week.
+"""
+
+# [cfp]
+# link = "https://example.com/speaker"
+
+[registration]
+type = "signup"
+
+price = "0 EUR"
+
+link = "https://lu.ma/fuelatblockspati"
+
+# button = "Sign up!"
+
+status = "available"
+
+[links]
+web = "https://www.fuel.network"
+
+twitter = "https://twitter.com/fuel_network"
+
+# matrix = "https://matrix.to/#/!example:example.org"
+
+# telegram = "https://t.me/example"
+
+# docs = "https://example.org/docs"
