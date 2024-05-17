@@ -1,0 +1,141 @@
+# the name of your event
+name = "NFTwist: The ICP Evolution of Dynamic NFTs"
+
+# shortest possible name (without year)
+shortname = "NFTwist"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+
+types = ["conference"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "ICP Hub Germany"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "apeunit"
+
+# A point of contact (responsible person)
+poc = "Elad Mintzer"
+
+# the start date of the event
+date = "2024-05-25"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "18:00-20:30"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["web3hub"]
+
+# # the event venue name
+# venueName = "w3.hub"
+
+# # link to the venue on google maps
+# venueUrl = "https://maps.app.goo.gl/uD1yncPL7ACUYyZs8"
+
+# # the event venue address
+# venueAddress = "Moeckernstraße 120, 10963 Berlin"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 200
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = ["ICP"]
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["ICP", "NFT", "community", "tokenization"]
+
+# A logo attachment
+logo = "logo.png"
+
+# a description of the event.
+description = ""
+​As Berlin Blockchain Week draws to a close, join us for its grand finale at W3.hub, hosted by ICP Hub Germany. This pivotal evening will showcase the groundbreaking possibilities of Dynamic NFTs on the Internet Computer, offering a glimpse into the future of blockchain's impact on digital ownership and user interaction.
+
+​Spotlight on Lost Club Toys
+
+​Witness the revolutionary approach of Lost Club Toys, backed by Animoca Brands and in collaboration with The Binary Holdings. They are setting new standards by partnering with telecommunications operators and the Line app to bring their vibrant characters to millions globally. This partnership exemplifies their commitment to reshaping how we think about digital interaction and NFT technology.
+
+​
+
+​Evening Highlights:
+
+​Dynamic NFTs Explained: Gain insights into the evolution of NFTs as they transition from static to dynamic, adapting and evolving with user interaction.
+
+​Spotlight on Lost Club Toys: Discover their innovative strategies for enhancing global digital engagement through unique character-driven experiences.
+
+​Celebratory Closing Party: Following the talks, join us for the official Berlin Blockchain Week closing party at the same venue. Enjoy an evening filled with live music, a beer pong tournament, and networking opportunities as we toast to a week of innovation and insights.
+
+​
+Join Us for a Night of Innovation and Celebration:
+
+​Don't miss this opportunity to connect with blockchain enthusiasts, industry leaders, and the creative minds behind Lost Club Toys. Reserve your spot to be part of this transformative event that marries the excitement of digital creativity with real-world applications.
+
+​Celebrate the culmination of Berlin Blockchain Week with us—where vision meets reality in the world of Dynamic NFTs!
+"""
+
+# [cfp]
+# # link to call for particioation
+# link = "https://example.com/speaker"
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# # price of the ticket
+# price = ""
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/j6yvpfgm"
+
+# custom action button label
+#button = "Sign-Up Now"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://lu.ma/62wwalij"
+
+# twitter account
+twitter = "https://twitter.com/icphub_DE"
+
+# # public matrix channel
+# matrix = ""
+
+# # public telegram group
+# telegram = "https://t.me/+UXz-g9GWEmthZjNk"
+
+# docs
+#docs = ""
+
+# # discord
+# discord = ""
