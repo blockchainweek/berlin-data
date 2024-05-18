@@ -1,0 +1,91 @@
+# OFFICE IMPART presents a Performance with conceptual digital artist Constant Dullaart
+name = "Constant Dullaart - Captains Log (humanized)"
+
+# "Performance at OFFICE IMPART"
+
+# type of the event
+types = ["other"]
+
+# status of the event
+status = "published"
+
+# the name of the group organizing the event
+org = "OFFICE IMPART"
+
+# the github handle of the directly responsible individual for this event
+# "HeddaOI"
+
+# A point of contact (responsible person)
+poc = "Johanna Neuschäffer"
+
+dri = ""
+
+# the start date of the event
+date = "2024-05-23"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "19:30-22:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["Waldenserstraße 2-4, 10551 Berlin"]
+
+# the event venue name
+venueName = "Office Impart"
+
+# link to the venue on open-street maps
+venueUrl = "https://www.openstreetmap.org/way/375909180#map=19/52.52904/13.33748"
+
+# venueAddress = "Waldenserstraße 2-4, 10551 Berlin"
+
+# languages = ["english" "german"]
+
+# the max number of attendees of the event
+attendees = 100
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = []
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["DigitalArt", "Constant Dullaart"]
+
+# A logo attachment
+logo = "logo.png"
+
+# a description of the event.
+description = "As a part of OFFICE IMPARTs current exhibition 'Accepting the Job' artist Constant Dullaart will do a Live-performance on Thursday, May 23rd. A close reading with an oracle, speaking in machine learned tongues, with a voice derived from sci-fi related voice-over intonations, accompanied by overtly humanized MIDI rhythms. Performed in collaboration with Chris Wratt. Sign up to attend."
+
+# [cfp]
+# # link to call for particioation
+# link = "mailto:info@officeimpart.com?subject=RSVP%20-%20Performance%20at%20Constant%20Dullaart%20%22Accepting%20the%20Job%22"
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# price of the ticket
+price = "Free"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/lazhqb1p"
+
+# custom action button label
+#button = "RSVP"
+
+# status of registrations
+status = "available"
+
+[links]
+# the website of the event
+website = "https://lu.ma/lazhqb1p"
+
+# twitter account
+twitter = "https://twitter.com/office_impart"
