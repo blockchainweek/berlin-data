@@ -1,0 +1,130 @@
+# the name of your event
+name = "TVL Growth: 3 Growth Hacks Proven to Attract Institutional TVL"
+
+# shortest possible name (without year)
+shortname = "TVL Growth: 3 Growth Hacks Proven to Attract Institutional TVL"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["workshop"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "Atomica.org"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "atomica-dev"
+
+# A point of contact (responsible person)
+poc = "jaroslav.a@atomica.org"
+
+# the start date of the event
+date = "2024-05-24"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "13:00-16:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["gabriel-loci"]
+
+# the event venue name
+venueName = "Studio-Location-Berlin"
+
+# link to the venue on open-street maps
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=K%C3%B6penicker+Str.+187%2F188+10997+Berlin"
+
+# the event venue address
+venueAddress = "Köpenicker Str. 187/188 1.OG, 10997 Berlin"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 30
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = []
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["Web3", "risk", "insurance"]
+
+# A logo attachment
+logo = "logo.png"
+
+# a description of the event.
+description = """
+​You will learn:
+​1. How to deploy insurance selling widgets in your own dApp or Web3 Protocol?
+​2. How to add insurance to your dApp transaction lifecycle?
+​3. How insurance or risk-adjusted yield can attract more TVL and institutional users?
+​4. How to add additional utility, yield and usage to your governance token?
+​5. How to promote the listing of your token on the lending platforms and money markets ?
+​6. How can the community contribute to the dApp or Web3 Protocol safety?
+​7. How can dApp and Web3 Web3 protocol benefit from Web3's threat prevention and insurance solutions?
+"""
+
+# [cfp]
+# link to call for particioation
+# link = "https://lu.ma/okf4hzwy"
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# price of the ticket
+price = "0 EUR"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/okf4hzwy"
+
+# custom action button label
+button = "Sign Up"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://lu.ma/okf4hzwy"
+
+# twitter account
+twitter = "https://twitter.com/atomica_org"
+
+# public matrix channel
+# matrix = ""
+
+# public telegram group
+telegram = "https://t.me/+wjXYe2ZgB844ODJh"
+
+# docs
+docs = "https://linktr.ee/atomica.org"
+
+# discord
+# discord = ""
