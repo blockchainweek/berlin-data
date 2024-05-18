@@ -20,11 +20,11 @@ times = "10:00-15:00"
 
 venues = ["blockspaeti"]
 
-venueName = "Blockspäti"
+# venueName = "Blockspäti"
 
-venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+# venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
 
-venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+# venueAddress = "Görlitzer Str. 52, 10997 Berlin"
 
 languages = ["english"]
 
