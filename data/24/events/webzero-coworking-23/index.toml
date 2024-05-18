@@ -2,7 +2,7 @@ name = "WebZero BlockSpäti — Co-working Day Three"
 
 shortname = "Co-working at BlockSpäti"
 
-types = ["coworking"]
+types = ["other"]
 
 status = "published"
 
