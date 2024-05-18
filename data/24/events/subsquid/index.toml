@@ -32,7 +32,7 @@ dri = "Subsquid"
 poc = "Roman Kemper"
 
 # the start date of the event
-date = "2024-05-15"
+date = "2024-05-22"
 
 # how many days the event lasts (1 - N)
 days = 1
