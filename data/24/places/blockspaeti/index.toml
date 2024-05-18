@@ -11,7 +11,7 @@ capacity = 500
 address = "Görlitzer Str. 52, 10997 Berlin"
 
 # OSM/Google Maps URL
-mapUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+mapUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=G%C3%B6rlitzer+Str.+52%2C+10997+Berlin"
 
 # Venue Description
 description = '''

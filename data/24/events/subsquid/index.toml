@@ -44,13 +44,13 @@ times = "10:00-13:00"
 venues = ["blockspaeti"]
 
 # the event venue name
-venueName = "Blockspäti"
+# venueName = "Blockspäti"
 
-# link to the venue on open-street maps
-venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+# # link to the venue on open-street maps
+# venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
 
-# the event venue address
-venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+# # the event venue address
+# venueAddress = "Görlitzer Str. 52, 10997 Berlin"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
