@@ -1,0 +1,73 @@
+name = "Bitcoin Pizza Party Berlin w/ Blockravers & øhr"
+
+shortname = "Bitcoin Pizza Party"
+
+types = ["party"]
+
+status = "published"
+
+org = "WebZero"
+
+dri = "tripleight"
+
+poc = "Roman Kemper"
+
+date = "2024-05-22"
+
+days = 1
+
+times = "21:00-01:30"
+
+venues = ["blockspaeti"]
+
+# venueName = "Blockspäti"
+
+# venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+
+# venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+
+languages = ["english"]
+
+attendees = 80
+
+chains = ["bitcoin"]
+
+tags = ["data", "cryptography"]
+
+logo = "logo.png"
+
+description = """
+You're invited to PizzaDAO's 4th annual Global Pizza Party in honor of Bitcoin Pizza Day.
+
+It's been 14 years since May 22, 2010, when Laszlo Hanyecz bought two pizzas for 10,000 bitcoin. Today, 10,000 bitcoin buys a lot more than two pizzas!
+
+We think that's a big deal. So in partnership with our friends at NounsDAO, Unlock Protocol, and the World Pizza Champions we are throwing our biggest Global Pizza Party yet! We're expecting well over 10,000 total attendees across more than 150 cities worldwide.
+
+Blockravers and [øhr](http://www.ohr-app.xyz/) are set to amplify this year's Global Pizza Party with a dynamic lineup of Berlin-based DJs and those from the blockchain community. Get ready for a night of electrifying music that bridges technology and culture.
+Lineup announcements coming soon!
+"""
+
+# [cfp]
+# link = "https://example.com/speaker"
+
+[registration]
+type = "signup"
+
+price = "0 EUR"
+
+link = "https://lu.ma/l6uj7t5c"
+
+# button = "Sign up!"
+
+status = "available"
+
+[links]
+web = "https://daocentral.com/dao/pizza"
+
+# twitter = "https://twitter.com/cryptogirlsclub"
+
+# matrix = "https://matrix.to/#/!example:example.org"
+
+# telegram = "https://t.me/example"
+
+# docs = "https://example.org/docs"
