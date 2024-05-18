@@ -1,0 +1,80 @@
+name = "Open Data Brunch with Subsquid"
+
+shortname = "Open Data Brunch with Subsquid"
+
+types = ["meetup", "other"]
+
+status = "published"
+
+org = "WebZero"
+
+dri = "tripleight"
+
+poc = "Roman Kemper"
+
+date = "2024-05-23"
+
+days = 1
+
+times = "10:00-13:00"
+
+venues = ["blockspaeti"]
+
+# venueName = "Blockspäti"
+
+# venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
+
+# venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+
+languages = ["english"]
+
+attendees = 100
+
+chains = ["polkadot"]
+
+tags = ["data", "cryptography"]
+
+logo = "logo.png"
+
+description = """
+Dive into open data and start your Thursday at the Blockspäti!
+
+The Subsquid team invites you to a lavish brunch followed by games and casual networking to start the day on the right foot.
+
+Don't miss this mixer if you appreciate:
+
+- Brunch with all the fixings
+- Open data
+- Different games and activities
+
+Your hosts at Subsquid
+
+Subsquid Network is Web3 necessiware—a decentralized data lake and query engine for blazing-fast cross-chain indexing and queries. Infinitely horizontally scalable, Subsquid makes the consumer dApps that real people want to use possible, from social media to games and DeFi. Secured by ZK proofs, Subsquid supports over 100 networks. Learn more: https://subsquid.io/
+"""
+
+# [cfp]
+# link = "https://example.com/speaker"
+
+[registration]
+type = "signup"
+
+price = "0 EUR"
+
+link = "https://lu.ma/ifha7ucq"
+
+# button = "Sign up!"
+
+status = "available"
+
+[links]
+web = "https://lu.ma/ifha7ucq"
+
+twitter = "https://twitter.com/subsquid"
+
+# matrix = "https://matrix.to/#/!example:example.org"
+
+# telegram = "https://t.me/example"
+
+# docs = "https://example.org/docs"
+
+# discord = "https://discord.com/invite/AsDf1337"

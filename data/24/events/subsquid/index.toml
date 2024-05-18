@@ -22,11 +22,11 @@ types = ["meetup"]
 status = "published"
 
 # the name of the group organizing the event
-org = "Subsquid & Fuel Tech Brunch"
+org = "WebZero"
 
 # the github handle of the directly responsible individual for this event
 # (this person will coordinate with #bbw24 organizers)
-dri = "Subsquid"
+dri = "tripleight"
 
 # A point of contact (responsible person)
 poc = "Roman Kemper"
@@ -41,16 +41,16 @@ days = 1
 times = "10:00-13:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-# venues = ["gabriel-loci"]
+venues = ["blockspaeti"]
 
 # the event venue name
-venueName = "NEST Schank- und Speisewirtschaft"
+# venueName = "Blockspäti"
 
-# link to the venue on open-street maps
-venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=G%C3%B6rlitzer+Str.+52%2C+10997+Berlin"
+# # link to the venue on open-street maps
+# venueUrl = "https://maps.app.goo.gl/x36xxzA55zPLSfmFA"
 
-# the event venue address
-venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+# # the event venue address
+# venueAddress = "Görlitzer Str. 52, 10997 Berlin"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
@@ -60,7 +60,7 @@ attendees = 80
 
 # blockchains that the event deals with
 # if it is an interchain event, then leave blank
-chains = ["polkadot"]
+chains = ["polkadot", "ethereum"]
 
 # tags for the event, will show up as labels.
 # pick 1-4
@@ -71,7 +71,7 @@ logo = "logo.png"
 
 # a description of the event.
 description = """
-​GM cryptopunks and decentralization enjoyooors.
+GM cryptopunks and decentralization enjoyooors.
 
 We're already a few days through blockchain week... it's probably time for a refuel!
 
@@ -82,7 +82,7 @@ Why join?
 - Plenty of liquidity, including Club Mate, the go-to drink for real Berliners, or those aspiring to be
 - Crypto dev insights straight from the source
 
-​Talk by [David Mihal](https://twitter.com/dmihal), Senior Architect @ Fuel
+Talk by [David Mihal](https://twitter.com/dmihal), Senior Architect @ Fuel
 
 Light-contracts - Understanding Fuel's Predicates
 The Fuel L2 features a new primitive, known as "predicates". Learn how predicates differ from "smart contracts", and how to use them to build account-abstraction wallets, DeFi apps, and more!
@@ -133,7 +133,7 @@ twitter = "https://twitter.com/subsquid"
 # telegram = "https://t.me/example"
 
 # docs
-#docs = "https://example.org/docs"
+# docs = "https://example.org/docs"
 
 # discord
 # discord = "https://discord.com/invite/AsDf1337"
