@@ -67,7 +67,7 @@ chains = []
 tags = ["vibes", "crypto", "coffee", "wallet"]
 
 # A logo attachment
-logo = "logo.webp"
+logo = "logo.png"
 
 # a description of the event.
 description = """
@@ -97,7 +97,7 @@ Stay caffeinated, stay innovative.
 
 """
 
-[cfp]
+# [cfp]
 # link to call for particioation
 #link = "https://lu.ma/bbturu7p"
 
