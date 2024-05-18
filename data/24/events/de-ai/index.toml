@@ -1,0 +1,138 @@
+# the name of your event
+name = "DeAI Society"
+
+# shortest possible name (without year)
+shortname = "DeAI Society"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["conference"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "NEWFORUM"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "madviii"
+
+# A point of contact (responsible person)
+poc = "Madvi"
+
+# the start date of the event
+date = "2024-05-25"
+
+# how many days the event lasts (1 - N)
+days = 2
+
+# the event times (shows up in the event card)
+times = "09:00-22:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["Berlin Studio"]
+
+# the event venue name
+venueName = "Berlin Studio"
+
+# link to the venue on open-street maps
+# venueUrl = not public
+
+# the event venue address
+# venueAddress = 
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 90
+
+chains = []
+
+# tags for the event, will show up as labels.# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+# pick 1-4
+tags = ["web3", "AI", "deAI", "Filming"]
+
+# A logo attachment
+logo = "logo.png"
+
+
+# a description of the event.
+description = """
+**Building the New Internet**
+​DeAI comes to Berlin. Join the New Internet builders network for DeAI Society, a series of curated talks, working groups, dinners and events, where you will be featured in our documentary about the builders of the New Internet! 🎥
+​
+​Present your project and meet with founders, builders and investors to define the future of composable decentralized AI and the New Internet stack for a DeAI Society.
+
+​​~ 🌐
+The smartest builders in the world are currently running in those two opposite directions: one working towards the exponential increase in machine intelligence and utility (AGI), the other is running towards more trusted global information systems (web3).
+
+​The New Internet is the synthesis of two seemingly incompatible emerging computing paradigms combining the best elements of both paradigms to achieve a decentralized AGI that is natively aligned with the best interest, values, preferences and intelligence of humanity.
+
+​The New Internet stack: Agent Centricity, Proto-Apps, AI Protocol, Verifiable Data, API Composability, Distributed Modularity, Agentic Workflows, Verifiable Computing, Consumer GPU Acceleration, Abstract Computing Markets, Mechanism Design, Creative Networks.
+
+~💡 📸 🎬
+The documentary will be produced by [Newforum](https://twitter.com/newforum_nco?lang=en), the research network for deAI and web3 founders, investors, researchers and creators launched by [Newfoundation](https://new.foundation/).
+
+Filming and art direction of the documentary by [Antonio Pedro ](https://antoniopedro.co/)and [Hugo Hoppmann](https://www.hugohoppmann.com/) from the Newfoundation team. Presenters will receive a recording guide and dress code 📸 🤳🏽🧢
+"""
+
+# [cfp]
+# link to call for particioation
+# link = "https://lu.ma/deaisoc"
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "invites"
+
+# price of the ticket
+price = "free"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/deaisoc"
+
+# custom action button label
+#button = "Apply"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://lu.ma/deaisoc"
+
+# twitter account
+twitter = "https://twitter.com/newforum_nco"
+
+# public matrix channel
+# matrix = 
+
+# public telegram group
+# telegram = 
+
+# docs
+#docs = 
+
+# discord
+# discord =
