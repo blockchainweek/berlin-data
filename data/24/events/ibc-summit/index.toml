@@ -1,0 +1,61 @@
+name = "IBC Summit Berlin '24"
+
+shortname = "IBC Summit"
+
+types = ["meetup"]
+
+status = "published"
+
+org = "IBC Summit, Polymer Labs"
+
+dri = "https://github.com/polymerdao"
+
+poc = "Tommy O'connell, Polymer Product Staff"
+
+date = "2024-05-24"
+
+days = 1
+
+times = "11:30-14:30"
+
+languages = ["english"]
+
+attendees = 500
+
+chains = ["ethereum", "cosmos"]
+
+tags = [
+  "IBC",
+  "Cosmos",
+  "Interchain",
+  "Ethereum",
+  "Superchain",
+  "Crosschain",
+  "Interoperability",
+]
+
+logo = "logo.png"
+
+description = """
+​The crypto landscape is shifting towards a multi-chain paradigm with a focus on modular designs like appchains and rollups. The Inter-Blockchain Communication protocol (IBC) is the interoperability standard of Web3. Join the builders making blockchain communication a reality for a day of learning and connectivity at IBC Summit Berlin 2024.
+
+​[IBC Summit](https://www.ibcsummit.org/) is a community event held multiple times a year in diverse locations around the globe. If you are interested in hosting an IBC Summit, please reach out to operations@ibcsummit.org!
+"""
+
+[registration]
+
+type = "signup"
+
+price = "Free"
+
+link = "https://lu.ma/IBCBerlin"
+
+#button = "Register Now!"
+
+status = "available"
+
+[links]
+
+web = "https://lu.ma/IBCBerlin/"
+
+twitter = "https://x.com/IBC_Summit"
