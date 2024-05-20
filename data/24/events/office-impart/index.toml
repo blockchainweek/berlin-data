@@ -30,13 +30,13 @@ days = 1
 times = "19:30-22:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-# venues = ["Waldenserstraße 2-4, 10551 Berlin"]
+venues = ["office-impart"]
 
 # the event venue name
-venueName = "Office Impart"
+# venueName = "Office Impart"
 
 # link to the venue on open-street maps
-venueUrl = "https://www.openstreetmap.org/way/375909180#map=19/52.52904/13.33748"
+# venueUrl = "https://www.openstreetmap.org/way/375909180#map=19/52.52904/13.33748"
 
 # venueAddress = "Waldenserstraße 2-4, 10551 Berlin"
 

@@ -1,0 +1,29 @@
+# name of the venue
+name = "OFFICE IMPART"
+
+# type of the event
+#  available types (you can choose more):
+eventTypes = ["expo", "other"]
+
+# max number of attendees
+capacity = 200
+
+# Street address
+address = "Waldenserstraße 2-4, 10551 Berlin"
+
+# OSM Maps URL
+mapUrl = "https://www.openstreetmap.org/way/375909180#map=19/52.52904/13.33748"
+
+# Venue Description
+description = '''OFFICE IMPART, founded in April 2018 by Johanna Neuschäffer and Anne Schwanz, is a gallery that extend the standard definition of what a gallery is. The world is changing, and so is the way in which art is presented and sold. To be part of this transformative process, the traditional model of the gallery needs to be expanded. And this is precisely what we seek to achieve with OFFICE IMPART. 
+
+As a part of OFFICE IMPARTs current exhibition 'Accepting the Job' artist Constant Dullaart will do a Live-performance on Thursday, May 23rd. A close reading with an oracle, speaking in machine learned tongues, with a voice derived from sci-fi related voice-over intonations, accompanied by overtly humanized MIDI rhythms. Performed in collaboration with Chris Wratt. 
+
+Sign up to attend.'''
+
+# Venue Photo or Logo
+photo = "logo.png"
+
+# Venue Link
+[links]
+web = "https://officeimpart.com/"
