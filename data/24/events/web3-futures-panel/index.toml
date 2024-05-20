@@ -41,16 +41,16 @@ days = 1
 times = "19:00-21:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-# venues = ["gabriel-loci"]
+venues = ["blockspaeti"]
 
 # the event venue name
-venueName = "NEST Schank- und Speisewirtschaft"
+# venueName = "NEST Schank- und Speisewirtschaft"
 
 # link to the venue on open-street maps
-venueUrl = "https://www.openstreetmap.org/node/1248728521"
+# venueUrl = "https://www.openstreetmap.org/node/1248728521"
 
 # the event venue address
-venueAddress = "Görlitzer Str. 52, 10997 Berlin"
+# venueAddress = "Görlitzer Str. 52, 10997 Berlin"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
@@ -71,7 +71,30 @@ logo = "logo.png"
 
 # a description of the event.
 description = """
-​Innovation doesn't just happen. It takes an institutional mindset that facilitates new business creation, IP ownership, and talent acquisition. Berlin, with its thriving blockchain ecosystem, is doing something right. The question is: what can we teach teach the rest of the world? In this panel, we bring three of Berlin's biggest institutions (IHK, Berlin Senate, and Berlin Partner) together to discuss what role institutions play in building the future of the decentralized web - a mission that is famously anti-institution?
+We're JUST Open Source Stiftung, the foundation behind The JUST Grant: [apply here](https://www.justopensource.io/grants).
+
+For our second Web3 Futures event, we are collaborating with WebZero to tackle the question:
+
+Fueling Emerging Technologies: What role do institutions play in building digital futures?
+
+Innovation doesn't just happen. It takes an institutional mindset that facilitates new business creation, IP ownership, and talent acquisition. Berlin, with its thriving blockchain ecosystem, is doing something right. The question is: what can we teach teach the rest of the world? In this panel, we bring three of Berlin's biggest institutions (IHK, Berlin Senate, and Berlin Partner) together to discuss what role institutions play in building the future of the decentralized web - a mission that is famously anti-institution?
+
+Our Panelists:
+- Anna Borodenko, IHK Coordinator for Digitalization, IT Security and AI
+- Isabella Hermann, Stiftung Zukunft Berlin
+- Norbert Herrmann, Senate Department for Economic Affairs, Energy and Public Enterprises, Head of Startup Affairs
+
+Promoted by Jakob Zwiers, Berlin Partner, Project Manager Innovation | Information and Communication Technology | Blockchain & IT-Security
+
+About Web3 Futures
+
+Web3 Futures, hosted by JUST Open Source Stiftung, is a speaking series aimed at understanding the barriers and challenges to Web3 adoption. In this event series, we invite Web3 players from across Berlin to discuss how we reach a Web3 Future.
+
+About JUST Open Source Stiftung
+
+JUST Open Source is Stiftung aiming to promote Web3 adoption through funding education and research initiatives. As part of their mandate, they have launched The JUST Grant. Learn more and apply at [justopensource.io/grants](http://justopensource.io/grants)
+
+All data collected here is for use hosting this event. For more information about how we use data, consult our [privacy policy](https://www.justopensource.io/privacy-policy).
 """
 
 # [cfp]
