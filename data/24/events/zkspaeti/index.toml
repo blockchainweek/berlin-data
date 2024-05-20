@@ -1,8 +1,8 @@
 # the name of your event
-name = "zk Späti with zkSync & crypto girls club"
+name = "zkSpäti with zkSync & crypto girls club"
 
 # shortest possible name (without year)
-shortname = "The zk Späti"
+shortname = "zkSpäti"
 
 
 # type of the event
@@ -37,16 +37,16 @@ days = 1
 times = "15:00-21:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
-# venues = ["gabriel-loci"]
+venues = ["blockspaeti"]
 
 # the event venue name
-venueName = "NEST Schank- und Speisewirtschaft"
+# venueName = "NEST Schank- und Speisewirtschaft"
 
 # link to the venue on open-street maps
-venueUrl = "https://www.openstreetmap.org/node/1248728521"
+# venueUrl = "https://www.openstreetmap.org/node/1248728521"
 
 # the event venue address
-venueAddress = "[Görlitzer Str. 52, 10997 Berlin](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47a84e4d15dd5631:0x86b65817acef8820?sa=X&ved=1t:8290&ictx=111)"
+# venueAddress = "[Görlitzer Str. 52, 10997 Berlin](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47a84e4d15dd5631:0x86b65817acef8820?sa=X&ved=1t:8290&ictx=111)"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
@@ -56,7 +56,7 @@ attendees = 300
 
 # blockchains that the event deals with
 # if it is an interchain event, then leave blank
-chains = []
+chains = ["ethereum"]
 
 # tags for the event, will show up as labels.
 # pick 1-4
@@ -71,27 +71,41 @@ Step into The BlockSpäti and prepare to enter a new reality where your favourit
 
 We'll be diving into account abstraction, quantum cryptography and cross-chain compatibility with a lineup so hard even Berghain couldn't curate.
 
+
 PANEL - 3:30PM
 
-Hira Siddiqui - CEO & Co-Founder, Plurality Network
-Lana Ivina - Blockchain Developer, Starkware
-Albiona Hoti - DevRel, Matter Labs
-Bianca Buzea - Head of Devrel, LUKSO
+'Cross-chain compatibility: redefining the collaboration between blockchains"
 
-​PRESENTATIONS - 4:20PM
+- Hira Siddiqui - CEO & Co-Founder, Plurality Network
+- Lana Ivina - Blockchain Developer, Starkware
+- Albiona Hoti - DevRel, Matter Labs
+- Bianca Buzea - Head of Devrel, LUKSO
 
-"Quantum Cryptography: Does It Have a Future?"
+PRESENTATIONS - 4:20PM
+
+- "Quantum Cryptography: Does It Have a Future?"
 Olena-Ivanna Oshchypok Applied Cryptographer Engineer at Matter Labs
 
-"Account abstraction: user interaction and experience"
+- “Exploring the evolution of Account Abstraction (AA) and its impact since 2023"
 Albiona Hoti - DevRel, Matter Labs
 
-​AFTER HOURS - 6PM
+- The session will highlight key implementations like EIP-4337 and zkSync, and provide hands-on example on native AA.
 
-Join us for afterhours for sassy-named cocktails, free flowing food and drink, killer merch in the merch mart and live music and a DJ set by ohr collective afterwards till dark.
+AFTER HOURS - 6PM-LATE
 
-Acoustic Nigerian set by [Dammy Daas]
-DJ set by [Ohr]
+Join us for afterhours for sassy-named cocktails, free flowing food and drink, killer merch in the merch mart, live music and sets from Berlin DJs till dark.
+
+Acoustic set by [Dammy Daas](https://www.instagram.com/dammydaas_/?hl=en)
+DJ set by [øhr](https://twitter.com/ohr_xyz) collective, including pacmax and Zwiebel Noam
+
+DRINK OF THE DAY
+
+zksync club mate
+Savour the refreshing mate plant with a touch of zero knowledge (don't worry, we know the ingredients)
+
+See you soon,
+
+zkSync & crypto girls club
 """
 
 # [cfp]
@@ -125,7 +139,7 @@ status = "available"
 [links]
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-web = "https://lu.ma/zkspati"
+web = "https://instagram.com/Cryptogirlsclub.berlin"
 
 # twitter account
 twitter = "https://twitter.com/zksync"
