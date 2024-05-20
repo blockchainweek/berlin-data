@@ -1,0 +1,113 @@
+# the name of your event
+name = "Safe Modules: Payments, Debit Cards & Self-custodial Asset Management"
+
+# shortest possible name (without year)
+shortname = "Safe Modules for Self-custodial Asset Management"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["meetup"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "Protofire.io Dev DAO"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "renatco"
+
+# A point of contact (responsible person)
+poc = "Renatco"
+
+# the start date of the event
+date = "2024-05-22"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "15:00-16:30"
+
+# the event venue name
+venueName = "Museum des Kapitalismus"
+
+# link to the venue on open-street maps
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=K%C3%B6penicker+Str.+172%2C+10997+Berlin%2C+Germany"
+
+# the event venue address
+venueAddress = "Köpenicker Str. 172, 10997 Berlin"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 60
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = ["ethereum"]
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = [
+  "Safe Multisig",
+  "Account Abstraction",
+  "Self-custodial Asset Management",
+]
+
+# A logo attachment
+logo = "logo.png"
+
+# a description of the event.
+description = """
+If you are building B2C or B2B use cases on top of Safe (aka Gnosis Safe Multisig), this meetup is for you. 
+
+1. Overview of Modules for Payments, Crypto Debit Cards, and Asset Management in Safe
+
+2. What are the design patterns used by Safe Module developers?
+
+3. Safe Module Security. Audits of Safe Modules; limitations circuit breakers & proactive monitoring security solutions. 
+
+Meet developers behind some of the Safe Modules out there, and learn about challenges, design patterns directly from each other. 
+"""
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# price of the ticket
+price = "0 EUR"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/n4c0p0sz"
+
+# custom action button label
+#button = "RSVP!"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://lu.ma/n4c0p0sz"
