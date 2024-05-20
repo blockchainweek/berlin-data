@@ -1,0 +1,111 @@
+# the name of your event
+name = "AVS Builders: Dual Token Restaking in EigenLayer"
+
+# shortest possible name (without year)
+shortname = "AVS Builders Meetup: Dual Token Restaking"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["meetup"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "Protofire.io Dev DAO"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "renatco"
+
+# A point of contact (responsible person)
+poc = "Renatco"
+
+# the start date of the event
+date = "2024-05-22"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "16:30-18:00"
+
+# the event venue name
+venueName = "Museum des Kapitalismus"
+
+# link to the venue on open-street maps
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=K%C3%B6penicker+Str.+172%2C+10997+Berlin%2C+Germany"
+
+# the event venue address
+venueAddress = "Köpenicker Str. 172, 10997 Berlin"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 60
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = ["ethereum", "cosmos", "polkadot", "bitcoin"]
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["Restaking", "AVS", "economic-security"]
+
+# A logo attachment
+logo = "logo.png"
+
+# a description of the event.
+description = """
+​If you are building, or want to build an AVS on top of EigenLayer (or any other rapidly growing restaking ecosystems), this meetup is for you. 
+
+​1. How to design Dual Token Staking  - add your own token to provide economic security to your protocol, too!
+
+​2. Comparison of Native Dual Staking, Modular Dual Staking, and Veto Dual Staking
+
+​3. How to design a good slashing mechanism?
+
+​4. How to design your AVS for rapid bootstrapping of economic security behind it, and minimize the risk of AVS failure? 
+
+​Developers behind AVS-es will meet, share challenges and  design patterns, and learn from each other to build more resilient and economically secure decentralized systems. 
+"""
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# price of the ticket
+price = "0 EUR"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/knqhdhcp"
+
+# custom action button label
+#button = "RSVP!"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://lu.ma/knqhdhcp"
