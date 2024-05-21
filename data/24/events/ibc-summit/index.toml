@@ -1,14 +1,14 @@
-name = "IBC Summit Berlin '24"
+name = "IBC Berlin Brunch with Polymer, Celestia, Anoma, & Interchain Foundation"
 
-shortname = "IBC Summit"
+shortname = "IBC Brunch with Polymer, Celestia, Anoma, & Interchain Foundation"
 
-types = ["meetup"]
+types = ["conference"]
 
 status = "published"
 
 org = "IBC Summit, Polymer Labs"
 
-dri = "https://github.com/polymerdao"
+dri = ""
 
 poc = "Tommy O'connell, Polymer Product Staff"
 
@@ -18,44 +18,42 @@ days = 1
 
 times = "11:30-14:30"
 
+venueName = "Prachtwerk"
+
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Ganghoferstra%C3%9Fe+2%2C+12043+Berlin%2C+Germany"
+
+venueAddress = "Ganghoferstraße 2, 12043 Berlin, Germany"
+
 languages = ["english"]
 
 attendees = 500
 
-chains = ["ethereum", "cosmos"]
+chains = []
 
-tags = [
-  "IBC",
-  "Cosmos",
-  "Interchain",
-  "Ethereum",
-  "Superchain",
-  "Crosschain",
-  "Interoperability",
-]
+tags = ["IBC", "Ethereum", "Cosmos", "Crosschain", "#Interoperability"]
 
 logo = "logo.png"
 
 description = """
-​The crypto landscape is shifting towards a multi-chain paradigm with a focus on modular designs like appchains and rollups. The Inter-Blockchain Communication protocol (IBC) is the interoperability standard of Web3. Join the builders making blockchain communication a reality for a day of learning and connectivity at IBC Summit Berlin 2024.
+The crypto landscape is shifting towards a multi-chain paradigm with a focus on modular designs like appchains and rollups. The Inter-Blockchain Communication protocol (IBC) is the interoperability standard of Web3. Join the builders making blockchain communication a reality for a day of learning and connectivity at IBC Summit Berlin 2024.
 
-​[IBC Summit](https://www.ibcsummit.org/) is a community event held multiple times a year in diverse locations around the globe. If you are interested in hosting an IBC Summit, please reach out to operations@ibcsummit.org!
+[IBC Summit](https://www.ibcsummit.org/) is a community event held multiple times a year in diverse locations around the globe. If you are interested in hosting an IBC Summit, please reach out to [operations@ibcsummit.org](mailto:operations@ibcsummit.org)!
 """
 
 [registration]
 
-type = "signup"
+type = "tickets"
 
-price = "Free"
+price = "FREE"
 
 link = "https://lu.ma/IBCBerlin"
 
-#button = "Register Now!"
+#button = "RSVP!"
 
 status = "available"
 
 [links]
 
-web = "https://lu.ma/IBCBerlin/"
+web = "https://lu.ma/IBCBerlin"
 
 twitter = "https://x.com/IBC_Summit"
