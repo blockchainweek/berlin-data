@@ -67,7 +67,7 @@ chains = []
 tags = ["Shutter", "Dao", "MEV"]
 
 # A logo attachment
-logo = "shutterLogo.png"
+logo = "logo.png"
 
 # a description of the event.
 description = """
