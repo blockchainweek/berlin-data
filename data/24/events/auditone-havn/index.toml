@@ -12,7 +12,7 @@ shortname = "AuditOne at BBW"
 #   * expo
 #   * party
 #   * other
-types = ["coffee"]
+types = ["meetup"]
 
 # status of the event
 # available types:
@@ -47,7 +47,7 @@ times = "08:30-11:00"
 venueName = "Holzmarkt Cafe"
 
 # link to the venue on open street maps
-venueUrl = "https://g.co/kgs/hRmQTjb"
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=holzmarkt+berlin"
 
 # the event venue address
 venueAddress = "HOLZMARKTSTRASSE 25 10243 BERLIN"
@@ -60,7 +60,7 @@ attendees = 300
 
 # blockchains that the event deals with
 # if it is an interchain event, then leave blank
-chains = ["ethereum","near","solana","polygon"]
+chains = []
 
 # tags for the event, will show up as labels.
 # pick 1-4
