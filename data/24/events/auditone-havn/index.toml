@@ -1,0 +1,149 @@
+# the name of your event
+name = "Walk-by Coffee Event by HAVN & AuditOne"
+
+# shortest possible name (without year)
+shortname = "AuditOne at BBW"
+
+# type of the event
+# available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["coffee"]
+
+# status of the event
+# available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "AuditOne and Haven"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "rajaauditone"
+
+# A point of contact (responsible person)
+poc = "Adrien"
+
+# the start date of the event
+date = "2024-05-23"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "08:30-11:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["Holzmarkt Cafe"]
+
+# the event venue name
+venueName = "Holzmarkt Cafe"
+
+# link to the venue on open street maps
+venueUrl = "https://g.co/kgs/hRmQTjb"
+
+# the event venue address
+venueAddress = "HOLZMARKTSTRASSE 25 10243 BERLIN"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 300
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = ["ethereum","near","solana","polygon"]
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["security audits", "smart contracts", "bug bounties"]
+
+# A logo attachment
+logo = "logo.png"
+
+# a description of the event.
+
+Morning Bytes & Bites at Holzmarkt Cafe
+
+​Location: Holzmarkt Cafe
+
+​Date & Time:
+
+​Thursday, May 23, 2024
+
+​From 8:30 AM to 11:00 AM
+
+​OVERVIEW
+
+​As part of the vibrant Berlin Blockchain Week, we invite the Web3 community and DAPPCON attendees to join us at the Holzmarkt Cafe for a unique morning mixer. Kickstart your day with our exclusive breakfast event, designed to energize and engage blockchain enthusiasts and professionals.
+
+WHAT TO EXPECT
+
+​Upon arrival, each registered guest will receive a complimentary voucher redeemable for a Coffee to Go and a croissant, or alternatively, a glass of sparkling wine and a croissant. 
+
+​This casual "walk-by" event is perfect for those looking to fuel up and network without a lengthy stop.
+
+​SPECIAL FEATURES:
+
+​Conveniently located right next to the DAPPCON venue at Radialsystem
+
+​Enjoy your breakfast in the charming outdoor seating area of Holzmarkt Cafe
+
+​A perfect setting to meet fellow blockchain enthusiasts in a relaxed, informal atmosphere
+
+​NOTE
+
+​The event is designed for quick stops; however, the venue's outdoor area provides a lovely setting for those who wish to linger and enjoy their morning treats.
+
+​We look forward to welcoming you to Morning Bytes & Bites – where good mornings are made better with blockchain!
+
+​ORGANIZERS
+
+HAVN
+
+​HAVN is an ecosystem that connects hybrid chains into a fully decentralized and interoperable network. The HAVN token powers the ecosystem and works as fuel for running the chains.
+
+AuditOne
+
+​​AuditOne is an aggregator platform that creates auditor pools based on projects' needs to deliver high-quality, affordable audits. Our main focus is on Web3 cybersecurity (smart-contract audits, pentests, bug bounties), AI systems audits (bias, fairness, compliance check), and technical due diligence (for VCs and traders).
+"""
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# price of the ticket
+# price = "0 EUR"
+
+# link to the registration or ticket purchase page
+link = "https://lu.ma/havn-auditone?tk=708GXQ"
+
+#custom action button label
+button = "Register Now"
+
+# status of registrations
+# Possible values:
+#  * available
+#  * sold-out
+#  * closed
+status = "available"
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://lu.ma/havn-auditone?tk=708GXQ"
+
+# twitter account
+twitter = "https://twitter.com/auditone_dao"
