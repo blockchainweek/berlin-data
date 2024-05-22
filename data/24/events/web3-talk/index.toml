@@ -35,12 +35,19 @@ tags = ["gaming", "xr", "metaverse", "extendedreality"]
 logo = "logo.png"
 
 description = """
-Gamers welcome! Connect to like-minded enthusiasts from Berlin's creative Web3-, Metaverse, AI, and Blockchain scene!
-For years, the Web3 space discussed how Blockchain could support gaming, and how the gaming industry could make use of AI, XR (Extended Reality), and the Metaverses. Slowly, the games industry adopted Web3 and AI technologies, and Apple launched Vision Pro. We will discuss the latest trends with industrie insiders and take a look at the future of artificial intelligence in games, and games in the Metaverses. Our speakers:
-+ CEO of a games company
-+ CTO of a XR company
-+ Lawyer and gaming industry consultant
-+ Games magazine journalist
+Gamers welcome! Connect to like-minded enthusiasts from Berlin's creative
+Web3-, Metaverse, AI, and Blockchain scene! For years, the Web3 space
+discussed how Blockchain could support gaming, and how the gaming industry
+could make use of AI, XR (Extended Reality), and the Metaverses. Slowly,
+the games industry adopted Web3 and AI technologies, and Apple launched
+Vision Pro. We will discuss the latest trends with industrie insiders and
+take a look at the future of AI and XR in games, and games in the
+Metaverses.
+Our speakers:
++ Nicola Mizon, founder, VIZTA Digital
++ Florian Dreschner, CTO, VOYA Games
++ Prof. Dr. Malte Behrmann, lawyer, former speaker of German Games
+Association
 """
 
 # [cfp]
