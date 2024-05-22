@@ -1,8 +1,9 @@
 # the name of your event
-name = "Future State"
+name = "Future State: Future State: Navigating Real-World Challenges through Blockchain"
 
 # shortest possible name (without year)
 shortname = "Future State"
+
 
 # type of the event
 #  available types (you can choose more):
@@ -19,17 +20,18 @@ types = ["meetup"]
 #   * idea
 #   * planning
 #   * published
-status = "planning"
+status = "published"
 
 # the name of the group organizing the event
-org = "Future State"
+org = "futurestate.wiki / Rarimo.com"
 
 # the github handle of the directly responsible individual for this event
 # (this person will coordinate with #bbw24 organizers)
-dri = "promensvitla"
+dri = "RaySvitla"
 
 # A point of contact (responsible person)
 poc = "Ray Svitla"
+
 
 # the start date of the event
 date = "2024-05-25"
@@ -44,14 +46,13 @@ times = "16:00-20:00"
 # venues = ["gabriel-loci"]
 
 # the event venue name
-venueName = "Berlin, TBA"
+venueName = "Berlin, Berlin"
 
 # link to the venue on open-street maps
 venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Berlin%2C+Berlin"
 
 # the event venue address
-venueAddress = "Berlin, TBA"
-
+venueAddress = "Berlin, Berlin"
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
 
@@ -64,30 +65,51 @@ chains = []
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["NetworkState", "realworldissues", "innovation"]
+tags = ["#NetworkState", "politics", "DAO", "governance"]
 
 # A logo attachment
 logo = "logo.png"
 
 # a description of the event.
 description = """
-Future State: Navigating Real-World Challenges through Blockchain
+​Future State: Navigating Real-World Challenges through Blockchain
+As the crypto community braces for the next bull run, we often see a surge of get-rich-quick schemes. Future State, is dedicated to addressing genuine issues that the blockchain community can tackle today.
 
-As the crypto community braces for the next bull run, we often see a surge of get-rich-quick schemes. Future State is dedicated to addressing genuine issues that the blockchain community can tackle today.
+​Why this Matters? This is a pragmatic approach
+Emerging societies are often the quickest to adopt innovations, as seen with the rapid uptake of crypto in Ukraine, Turkey, and Nigeria. Blockchain technology—with programmable economies, zk proofs, DAOs, and more—has the potential to leapfrog the development of communities, nations, and entire regions, accelerating mass adoption.
 
-Why this Matters? This is a pragmatic approach Emerging societies are often the quickest to adopt innovations, as seen with the rapid uptake of crypto in Ukraine, Turkey, and Nigeria. Blockchain technology—with programmable economies, zk proofs, DAOs, and more—has the potential to leapfrog the development of communities, nations, and entire regions, accelerating mass adoption.
+​Why Berlin?
+Berlin, a city that has long been divided between past and future, is the perfect place to leap into the future. Here, we focus on solving real human problems, not just building castles in the air.
 
-Why Berlin? Berlin, a city that has long been divided between past and future, is the perfect place to leap into the future. Here, we focus on solving real human problems, not just building castles in the air.
+About the Organizers:
 
-Event Structure:
+​[futurestate.wiki](http://futurestate.wiki/) – A self-publishing platform centered around the Network States movement, offering a series of offline events in various cities.
 
-1. Presentations from Experts: We invite thought leaders and practitioners to share their insights on how blockchain can address real-world challenges. Submit your proposal to speak at the event.
+​[rarimo.com](http://rarimo.com/) – A privacy-first (ZK) social protocol that unlocks a new generation of social apps, allowing users to go incognito without losing historical actions, networks, and identities.
 
-2. World Cafe for Problem-Solving: Participants will gather in small groups to discuss specific real-world challenges that blockchain can address.
+​Event Structure:
 
-Examples of potential topics include: The impact of Georgia's new law on foreign agents The challenges faced by the 500,000 Belarusians in Europe who are at risk of losing their passports Propose your own topic in your participation application.
+​1. Presentations from Experts:
 
-Join us to explore a sci-fi version of the future, through the lens of new governance models and libertarian concepts inspired by "The Network State" by Balaji Srinivasan. Let's navigate real-world challenges with practical blockchain solutions.
+​How FreedomTool Helps Reclaim Stolen Votes // Kitty Horlick, Director Rarify Labs
+
+​How Belarusians in Exile Are Building a Network State // Ray Svitla, Future State founder
+
+​Build an onchain court system run by communities // Florian Glatz, Founder of Common Ground
+
+​2. World Cafe for Problem-Solving:
+
+​Participants will gather in small groups to discuss specific real-world challenges that blockchain can address.
+
+​Examples of potential topics include:
+
+​The impact of Georgia's new law on foreign agents
+
+​The challenges faced by the 500,000 Belarusians in Europe who are at risk of losing their passports
+
+​Propose your own topic in your participation application.
+
+​Join us to explore a sci-fi version of the future, through the lens of new governance models and libertarian concepts inspired by "The Network State" by Balaji Srinivasan. Let's navigate real-world challenges with practical blockchain solutions.
 """
 
 # [cfp]
@@ -103,10 +125,10 @@ Join us to explore a sci-fi version of the future, through the lens of new gover
 type = "signup"
 
 # price of the ticket
-#price = "Approval Required"
+price = "0 EUR"
 
 # link to the registration or ticket purchase page
-#link = "https://lu.ma/FutureState_Berlin"
+link = "https://lu.ma/FutureState_Berlin"
 
 # custom action button label
 #button = "Request to Join"
@@ -121,7 +143,7 @@ status = "available"
 [links]
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-web = "https://futurestate.wiki/en/events"
+web = "https://lu.ma/FutureState_Berlin"
 
 # twitter account
 twitter = "https://twitter.com/futurestate_tv"
