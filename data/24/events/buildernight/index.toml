@@ -32,7 +32,7 @@ dri = "andreolf"
 poc = "francesco Andreoli"
 
 # the start date of the event
-date = "2024-05-25"
+date = "2024-05-24"
 
 # how many days the event lasts (1 - N)
 days = 1
