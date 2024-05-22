@@ -71,6 +71,8 @@ logo = "logo.png"
 
 # a description of the event.
 
+description = '''
+
 Morning Bytes & Bites at Holzmarkt Cafe
 
 ​Location: Holzmarkt Cafe
@@ -114,7 +116,7 @@ HAVN
 AuditOne
 
 ​​AuditOne is an aggregator platform that creates auditor pools based on projects' needs to deliver high-quality, affordable audits. Our main focus is on Web3 cybersecurity (smart-contract audits, pentests, bug bounties), AI systems audits (bias, fairness, compliance check), and technical due diligence (for VCs and traders).
-"""
+'''
 
 [registration]
 # type of registration
