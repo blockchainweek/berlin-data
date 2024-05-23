@@ -32,13 +32,13 @@ dri = "UNITECHIL"
 poc = "https://warpcast.com/streamm"
 
 # the start date of the event
-date = "2024-05-27"
+date = "2024-05-24"
 
 # how many days the event lasts (1 - N)
-days = 1
+days = 3
 
 # the event times (shows up in the event card)
-times = "09:00-20:00"
+times = "08:45-10:00"
 
 # Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
 # venues = ["Mindspace Friedrichstraße"]
