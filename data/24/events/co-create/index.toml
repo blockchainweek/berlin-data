@@ -1,0 +1,122 @@
+# the name of your event
+name = "co-create"
+
+# shortest possible name (without year)
+shortname = "co-create"
+
+# type of the event
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["expo"]
+
+# status of the event
+#  available types:
+#   * idea
+#   * planning
+#   * published
+status = "published"
+
+# the name of the group organizing the event
+org = "Department of Decentralization"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with #bbw24 organizers)
+dri = "ligi"
+
+# A point of contact (responsible person)
+poc = "https://dod.ngo"
+
+# the start date of the event
+date = "2024-05-25"
+
+# how many days the event lasts (1 - N)
+days = 1
+
+# the event times (shows up in the event card)
+times = "11:00-17:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+venues = ["cic"]
+
+# the event venue name
+# venueName = "Example venue"
+
+# link to the venue on google maps
+# venueUrl = "https://goo.gl/maps/example"
+
+# the event venue address
+# venueAddress = "118 Holland St, Somerville, MA 02144"
+
+# the languages in which the event will take place (you can choose more)
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 150
+
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = []
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["art"]
+
+# A logo attachment
+logo = "logo.png"
+
+# a description of the event.
+description = """
+An exhibition by Department of Decentralization and Refraction
+
+In the history of media, sound, and related image-based practices, hardly any city in the world has been as impactful in the concept of collaborative performance and presentation as a genre and medium as Berlin. From the early hacklabs, cross-sound performances, Bring-Your-Own-Beamer initiatives, and crypto raves, the sense of a joint collaboration has been at the core, inviting artists of many disciplines and genres to create, exhibit and perform together, creating novel social sculptural movements.
+
+It is in this ethos Department of Decentralization Refraction, in collaboration with Refraction, presents ‘co-create’. The exhibition asks questions in and around identity, open source technology, and participatory frameworks as they relate to contemporary on-chain discourse. The work is presented on-chain and IRL, creating a new mode of action and communication, bridging the exhibition space in Berlin and on the blockchain, furthering the notion of presentation as participation.
+
+The IRL exhibition is inspired by the Bring-Your-Own-Beamer (BYOB) initiative and asks presenting artists to consider and bring the device on which they believe the work is best suited for.
+The BYOB concept was initiated by Rafaël Rozendaal.
+
+Talks program
+
+12.00: Panel - Decentralized Art Organisation with Vincent Trasov and Benny Giang. Moderated by Stina Gustafsson
+
+13.30: Panel - Art after NFTs with Joan Heemskerk and Billy Rennekamp. Moderated by María Paula Fernández
+"""
+
+[registration]
+# type of registration
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "signup"
+
+# price of the ticket
+price = "free"
+
+# link to the registration or ticket purchase page
+link = "https://visas.ethberlin.org/ethberlin/art"
+
+# custom action button label
+button = "Register!"
+
+# status of registrations
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "closed"
+
+[links]
+# the website of the event
+web = "https://ethberlin.org"
+
+# twitter account
+twitter = "https://twitter.com/ETHBerlin"
+
+# public matrix channel
+matrix = "https://matrix.to/#/%23ethberlin:dod.ngo"
