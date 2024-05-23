@@ -44,19 +44,19 @@ times = "18:00-20:00"
 # venues = ["gabriel-loci"]
 
 # the event venue name
-venueName = "DeSci church"
+venueName = "Treptower park"
 
 # link to the venue on open-street maps
-venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Alexandrienstra%C3%9Fe+18+10969+Berlin"
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=Treptower+Park+12435+Berlin"
 
 # the event venue address
-venueAddress = "Alexandrinenstraße 118-121, 10969 Berlin"
+venueAddress = "Treptower Park, 12435 Berlin"
 
 # the languages in which the event will take place (you can choose more)
 languages = ["english"]
 
 # the max number of attendees of the event
-attendees = 50
+attendees = 100
 
 # blockchains that the event deals with
 # if it is an interchain event, then leave blank
