@@ -1,0 +1,84 @@
+name = "Authoring Futures: Protocols for Postcapitalist Expression"
+
+shortname = "Protocols for Postcapitalist Expression"
+
+types = ["meetup", "party"]
+
+status = "published"
+
+org = "Economic Space Agency"
+
+dri = "econaut6"
+
+poc = "Akseli Virtanen"
+
+date = "2024-05-29"
+
+days = 1
+
+times = "18:00-20:00"
+
+venueName = "Nome Gallery, https://nomegallery.com, POTSDAMER STR. 72, 10785 BERLIN"
+
+venueUrl = "https://nominatim.openstreetmap.org/ui/search.html?q=POTSDAMER+STR.+72%2C+10785+BERLIN"
+
+venueAddress = "POTSDAMER STR. 72, 10785 BERLIN"
+
+languages = ["english"]
+
+attendees = 20
+
+chains = []
+
+tags = ["postcapitalism", "protocols", "economic media"]
+
+logo = "https://i.postimg.cc/d1NXQN1j/Ecsa-Tekstin-talo-poster-berlin.png"
+
+description = "A discussion on postcapitalism and economic media with Dick Bryan, Jorge López & Akseli Virtanen, the authors of the Protocols for Postcapitalist Expression (Minor Compositions / Autonomedia, 2023).
+
+_To change our economy we need to change our economic language, for the nature of our economy is bound by the expressivity of the language that can conceive it._
+
+The recently published book Protocols for Postcapitalist Expression (Minor Compositions / Autonomedia, 2023) by Dick Bryan, Jorge López & Akseli Virtanen, has been described as a major contribution in deconstructing economic intelligence, historically sedimented in economic categories and practices, while reconstructing it as a ​new strategy for collective organization.
+
+There is no doubt that our economic organization is catching up with the new substrate of high speed computer networks with high informational capacities, bandwidth and connectivity. This will make radically new economic-organizational composition possible.
+
+The book’s thesis is this will elevate the economy into something that resembles an expressive medium. As a medium, the economy is fundamentally a communication and writing system: an economic messaging protocol. And, as such, it can also be reprogrammed to say and communicate different things, with different logics, and with different network relations (who can do what).
+
+Join the authors in the discussion on developing an [open economic medium](https://glossary.ecsa.io/economic-media) to collectively author futures, exercise and express economic agency, form distributed economic alliances, and to dialogue about what holds value, while creating it.
+
+The book has also been released as an open access publication, but in a way that rethinks the economic space of open access publishing and experiments with text as a culture and network generating protocol. Test it out yourself: https://postcapitalist.agency/
+
+[Dick Bryan](https://www.sydney.edu.au/arts/about/our-people/academic-staff/dick-bryan.html), [Jorge Lopez](https://hackmd.io/TqBLkWl_Q6am7SrQsfnQig?view) and [Akseli Virtanen](https://hackmd.io/@econaut6/S1GEgoSLY) are members of the [Economic Space Agency](https://economicspace.agency/), a collective of post-structuralist economists, economic kubists, software architects, game designers, monetary theorists and intangible asset creators deeply passionate about the economy.
+
+The event is organized together with the [Nome Gallery](https://nomegallery.com/about/), exhibiting right now the [Spot Price](https://goldinsenneby.com/spot-price/) by Goldin+Senneby and “[that is complete. And knowledge is another](https://nomegallery.com/exhibitions/that-is-complete-and-knowledge-is-another/)” by Kameelah Janan Rasheed.
+
+For reading
+[Protocols for Postcapitalist Expression](https://postcapitalist.agency/)
+[On Economic Intelligence](https://hackmd.io/@ECSA/rJSza2HxR)  (Foreword) by Jonathan Beller, Prof. Media at Pratt, NYC
+[Ch 1: Introduction & Ch 2: From capitalist to postcapitalist economy](https://hackmd.io/@ECSA/B1DPptiMC)
+[Postcapitalist discourse glossary: A map to a new economic space](https://glossary.ecsa.io/accounting)
+[Regions of interest](https://canopycanopycanopy.com/contents/regions-of-interest), by Goldin+Senneby
+[That is complete. And knowledge is another](https://nomegallery.com/exhibitions/that-is-complete-and-knowledge-is-another/), Kameelan Janan Rashedd at Nome Gallery"
+
+[cfp]
+link = "https://hackmd.io/@ECSA/ByK7OOOm0"
+
+[registration]
+
+type = "signup"
+
+price = "0 EUR"
+
+link = "https://hackmd.io/@ECSA/ByK7OOOm0"
+
+button = "Join!"
+
+status = "available"
+
+[links]
+web = "https://hackmd.io/@ECSA/ByK7OOOm0"
+
+twitter = "https://twitter.com/ecospaceagency"
+
+telegram = "https://t.me/economicspaceagency"
+
